@@ -2,10 +2,6 @@ import streamlit as st
 import speech_recognition as sr
 import os
 
-# Upgrade pip
-os.system("/app/venv/bin/python -m pip install --upgrade pip")
-
-
 def listen_microphone():
     microphone = sr.Recognizer()
 
