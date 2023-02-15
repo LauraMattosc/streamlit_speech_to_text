@@ -1,3 +1,5 @@
-pip install streamlit
-pip install SpeechRecognition
+streamlit==0.85.0
+SpeechRecognition==3.8.1
+PyAudio==0.2.11
+
 
