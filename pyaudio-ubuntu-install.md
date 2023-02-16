@@ -1,4 +1,2 @@
-sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
-sudo apt-get install ffmpeg
-sudo apt-get install python-pyaudio
-sudo apt-get install python3-pyaudio
+sudo apt-get update
+sudo apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg wget git vim
