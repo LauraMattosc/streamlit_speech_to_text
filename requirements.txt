@@ -2,3 +2,5 @@ streamlit
 SpeechRecognition
 nltk
 pyaudio
+!apt-get install -q portaudio19-dev python3-pyaudio
+!pip install pysine
